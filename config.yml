@@ -1,0 +1,8 @@
+# Set the potion effect given when taking damage.
+potion_effect: CONFUSION
+
+# Set how long players will have the potion effect after taking damage.
+effect_length: 200
+
+# Set the amplifier/level of the potion effect.
+effect_amplifier: 2
